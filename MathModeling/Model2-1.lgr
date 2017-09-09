@@ -1,10 +1,10 @@
   Global optimal solution found.
-  Objective value:                            23131300.0
-  Objective bound:                            23131300.0
+  Objective value:                            46262600.0
+  Objective bound:                            46262600.0
   Infeasibilities:                            0.00000000
   Extended solver steps:                               0
   Total solver iterations:                            54
-  Elapsed runtime seconds:                          0.57
+  Elapsed runtime seconds:                          0.68
 
   Model Class:                                     MINLP
 
@@ -311,7 +311,7 @@
                                                     K( 18)       0.200000000E-01
 
                                                        Row      Slack or Surplus
-                                                         1        23131300.0
+                                                         1        46262600.0
                                                          2        0.00000000
                                                          3        0.00000000
                                                          4        0.00000000
